@@ -1,0 +1,134 @@
+2020-04-12 09:32:53,856 - root - INFO - Test info
+2020-04-12 09:32:53,856 - root - INFO - Test info
+2020-04-12 09:32:53,858 - root - DEBUG - Test debug
+2020-04-12 09:32:53,858 - root - DEBUG - Test debug
+2020-04-12 09:32:53,860 - root - ERROR - Test error
+2020-04-12 09:32:53,860 - root - ERROR - Test error
+2020-04-12 09:33:46,019 - root - INFO - Test info
+2020-04-12 09:33:46,019 - root - INFO - Test info
+2020-04-12 09:33:46,021 - root - DEBUG - Test debug
+2020-04-12 09:33:46,021 - root - DEBUG - Test debug
+2020-04-12 09:33:46,023 - root - ERROR - Test error
+2020-04-12 09:33:46,023 - root - ERROR - Test error
+2020-04-12 09:40:36,150 - root - INFO - Test info test
+2020-04-12 09:40:36,150 - root - INFO - Test info test
+2020-04-12 09:43:42,326 - root - INFO - 
+ Find winner>> Name of first player=Roger Federer
+2020-04-12 09:43:42,326 - root - INFO - 
+ Find winner>> Name of first player=Roger Federer
+2020-04-12 09:43:42,332 - root - INFO - 
+ Find winner>> Name of first player=Roger Federer
+2020-04-12 09:43:42,332 - root - INFO - 
+ Find winner>> Name of first player=Roger Federer
+2020-04-12 09:43:53,339 - root - INFO - 
+ Find winner>> Name of first player=Roger Federer
+2020-04-12 09:43:53,339 - root - INFO - 
+ Find winner>> Name of first player=Roger Federer
+2020-04-12 09:43:53,344 - root - INFO - 
+ Find winner>> Name of first player=Roger Federer
+2020-04-12 09:43:53,344 - root - INFO - 
+ Find winner>> Name of first player=Roger Federer
+2020-04-12 09:44:08,324 - root - INFO - 
+ Find winner>> Name of first player=Roger Federer
+2020-04-12 09:44:08,324 - root - INFO - 
+ Find winner>> Name of first player=Roger Federer
+2020-04-12 09:44:48,252 - root - INFO - Test info test
+2020-04-12 09:44:48,252 - root - INFO - Test info test
+2020-04-12 09:45:59,769 - root - INFO - Test info test
+2020-04-12 09:45:59,769 - root - INFO - Test info test
+2020-04-12 09:46:04,246 - root - INFO - Test info test
+2020-04-12 09:46:04,246 - root - INFO - Test info test
+2020-04-12 09:46:28,139 - root - INFO - Test info test
+2020-04-12 09:46:28,139 - root - INFO - Test info test
+2020-04-12 09:46:52,826 - root - INFO - Test info test
+2020-04-12 09:46:52,826 - root - INFO - Test info test
+2020-04-12 09:47:54,982 - root - INFO - Test info test
+2020-04-12 09:47:54,982 - root - INFO - Test info test
+2020-04-12 09:48:08,740 - root - DEBUG - Test debug
+2020-04-12 09:48:08,740 - root - DEBUG - Test debug
+2020-04-12 09:48:14,546 - root - ERROR - Test error
+2020-04-12 09:48:14,546 - root - ERROR - Test error
+2020-04-12 09:49:09,175 - root - INFO - 
+ Find winner>> Name of first player=Roger Federer
+2020-04-12 09:49:09,175 - root - INFO - 
+ Find winner>> Name of first player=Roger Federer
+2020-04-12 09:56:35,331 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:56:35,331 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:58:03,838 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:58:03,838 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:58:03,845 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:58:03,845 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:58:10,051 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:58:10,051 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:58:22,799 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:58:22,799 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:59:17,889 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:59:17,889 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:59:17,895 - root - INFO - ifTourneyPlayed : Year >> 2005 touneyName >Wimbledon
+2020-04-12 09:59:17,895 - root - INFO - ifTourneyPlayed : Year >> 2005 touneyName >Wimbledon
+2020-04-12 09:59:50,208 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:59:50,208 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 09:59:50,214 - root - INFO - ifTourneyPlayed : Year >> 2005 touneyName >Wimbledon
+2020-04-12 09:59:50,214 - root - INFO - ifTourneyPlayed : Year >> 2005 touneyName >Wimbledon
+2020-04-12 09:59:50,228 - root - INFO - 
+ Sorry, the player Roger Federer DID NOT Play the tournament Wimbledon
+2020-04-12 09:59:50,228 - root - INFO - 
+ Sorry, the player Roger Federer DID NOT Play the tournament Wimbledon
+2020-04-12 10:01:04,336 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 10:01:04,336 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 10:01:04,343 - root - INFO - ifTourneyPlayed : Year >> 2005 touneyName >Wimbledon
+2020-04-12 10:01:04,343 - root - INFO - ifTourneyPlayed : Year >> 2005 touneyName >Wimbledon
+2020-04-12 10:01:04,353 - root - INFO - Sorry, the tournament >>Wimbledon was  NOT held in year >2005
+2020-04-12 10:01:04,353 - root - INFO - Sorry, the tournament >>Wimbledon was  NOT held in year >2005
+2020-04-12 10:01:04,368 - root - INFO - 
+ Sorry, the player Roger Federer DID NOT Play the tournament Wimbledon
+2020-04-12 10:01:04,368 - root - INFO - 
+ Sorry, the player Roger Federer DID NOT Play the tournament Wimbledon
+2020-04-12 10:01:17,847 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 10:01:17,847 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 10:01:17,854 - root - INFO - ifTourneyPlayed : Year >> 2005 touneyName >Wimbledon
+2020-04-12 10:01:17,854 - root - INFO - ifTourneyPlayed : Year >> 2005 touneyName >Wimbledon
+2020-04-12 10:01:17,866 - root - INFO - Sorry, the tournament >>Wimbledon was  NOT held in year >2005
+2020-04-12 10:01:17,866 - root - INFO - Sorry, the tournament >>Wimbledon was  NOT held in year >2005
+2020-04-12 10:01:17,881 - root - INFO - 
+ Sorry, the player Roger Federer DID NOT Play the tournament Wimbledon
+2020-04-12 10:01:17,881 - root - INFO - 
+ Sorry, the player Roger Federer DID NOT Play the tournament Wimbledon
+2020-04-12 10:01:17,886 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 10:01:17,886 - root - INFO - 
+ playerCheck >>  player=Roger Federer, year 2005 tourney Wimbledon
+2020-04-12 10:01:17,890 - root - INFO - ifTourneyPlayed : Year >> 2005 touneyName >Wimbledon
+2020-04-12 10:01:17,890 - root - INFO - ifTourneyPlayed : Year >> 2005 touneyName >Wimbledon
+2020-04-12 10:01:17,898 - root - INFO - Sorry, the tournament >>Wimbledon was  NOT held in year >2005
+2020-04-12 10:01:17,898 - root - INFO - Sorry, the tournament >>Wimbledon was  NOT held in year >2005
+2020-04-12 10:01:17,911 - root - INFO - 
+ Sorry, the player Serena Williams DID NOT Play the tournament Wimbledon
+2020-04-12 10:01:17,911 - root - INFO - 
+ Sorry, the player Serena Williams DID NOT Play the tournament Wimbledon
+2020-04-12 10:02:24,029 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-12 10:02:24,029 - root - ERROR - Invalid alias: The name clear can't be aliased because it is another magic command.
+2020-04-12 10:02:24,036 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-12 10:02:24,036 - root - ERROR - Invalid alias: The name more can't be aliased because it is another magic command.
+2020-04-12 10:02:24,041 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-12 10:02:24,041 - root - ERROR - Invalid alias: The name less can't be aliased because it is another magic command.
+2020-04-12 10:02:24,046 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
+2020-04-12 10:02:24,046 - root - ERROR - Invalid alias: The name man can't be aliased because it is another magic command.
